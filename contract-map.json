@@ -4506,9 +4506,9 @@
     "decimals": 18
   },
   "0x45a6cb9f7fc54cf71be89dcd92db0b068ddd4e95": {
-  "name": "X.COM",
-  "symbol": "X",
-  "decimals": 18,
-  "logo": "0x45a6cb9f7fc54cf71be89dcd92db0b068ddd4e95.png"
+    "name": "X.COM",
+    "symbol": "X",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/vavaav2014/contract-metadata/master/images/0x45a6cb9f7fc54cf71be89dcd92db0b068ddd4e95.png"
   }
 }
