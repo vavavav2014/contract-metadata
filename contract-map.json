@@ -4504,5 +4504,11 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
+  },
+  "0x45a6cb9f7fc54cf71be89dcd92db0b068ddd4e95": {
+  "name": "X.COM",
+  "symbol": "X",
+  "decimals": 18,
+  "logo": "0x45a6cb9f7fc54cf71be89dcd92db0b068ddd4e95.png"
   }
 }
