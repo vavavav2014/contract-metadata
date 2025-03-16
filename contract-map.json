@@ -4505,11 +4505,11 @@
     "symbol": "PROS",
     "decimals": 18
   },
-  "0x45a6cb9f7fc54cf71be89dcd92db0b068ddd4e95": {
-    "name": "X.COM",
-    "symbol": "X",
+  "0xafDA0eaF3D16aEDC3CE631111338F438804301d0": {
+    "name": "X.COM",   
+    "logo": "X.SVG"
     "erc20": true,
+    "symbol": "X",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/vavavav2014/contract-metadata/master/images/0x45a6cb9f7fc54cf71be89dcd92db0b068ddd4e95.png"
   }
 }
