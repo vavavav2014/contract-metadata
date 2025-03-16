@@ -4507,7 +4507,7 @@
   },
   "0xafDA0eaF3D16aEDC3CE631111338F438804301d0": {
     "name": "X.COM",   
-    "logo": "X.SVG"
+    "logo": "X.svg"
     "erc20": true,
     "symbol": "X",
     "decimals": 18,
